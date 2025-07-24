@@ -58,22 +58,19 @@ AI_ANALYST_BOT/
 ---
 
 Output:
-
 Cleaned Dataset (CSV/Excel) – Downloadable after cleaning
 
 Consulting-grade PDF Report – Executive summary, visual analysis, and AI recommendations
 
-Future Roadmap
-Add real-time dashboard support
+Future Roadmap:
+- Add real-time dashboard support
+- Deploy online (Streamlit/Flask)
+- Advanced AI storytelling for deeper analytics
 
-Deploy online (Streamlit/Flask)
-
-Advanced AI storytelling for deeper analytics
-
-Confidentiality
+Confidentiality:
 Private Project – Unauthorized sharing or reproduction is prohibited.
 
-Author
+Author:
 Ajay Kumar Sahu – AI Builder
 
 
