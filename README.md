@@ -4,12 +4,22 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)  
 ![Status](https://img.shields.io/badge/status-Active-success)  
 ![Access](https://img.shields.io/badge/license-Private-red)
+![Framework](https://img.shields.io/badge/framework-Gradio-orange)
+![Report](https://img.shields.io/badge/PDF-ReportLab-green)
 
 ---
 
 ## **Overview**
 The **AI Analyst Bot** is a one-click solution for **data cleaning, analysis, and professional reporting**.  
 It is designed to automate repetitive analyst tasks and generate **consulting-grade PDF reports** with **AI-driven executive insights**.
+
+---
+
+## How It Works
+1. Upload dataset (CSV or Excel)
+2. Select cleaning options
+3. Generate professional report with one click
+4. Download cleaned data & consulting-grade PDF
 
 ---
 
@@ -78,6 +88,7 @@ Author:
 Ajay Kumar Sahu – AI Builder
 
 
+![Access](https://img.shields.io/badge/license-Private-red)
 
 
 
