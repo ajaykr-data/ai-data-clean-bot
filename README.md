@@ -57,7 +57,8 @@ AI_ANALYST_BOT/
 
 ---
 
-Output
+Output:
+
 Cleaned Dataset (CSV/Excel) – Downloadable after cleaning
 
 Consulting-grade PDF Report – Executive summary, visual analysis, and AI recommendations
