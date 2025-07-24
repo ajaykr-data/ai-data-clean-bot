@@ -29,6 +29,10 @@ It is designed to automate repetitive analyst tasks and generate **consulting-gr
 - 📑 **Excel & CSV Support** – Works with both `.xlsx` and `.csv` files.  
 
 ---
+## Demo Screenshot
+![Demo](demo.png)
+
+---
 
 ## **Tech Stack**
 - **Python 3.8+**  
